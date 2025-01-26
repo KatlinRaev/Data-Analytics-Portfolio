@@ -3,31 +3,34 @@
 Welcome to my Data Analytics Portfolio! This repository showcases my hands-on experience with various data analytics tools, techniques, and methodologies.
 
 ## Projects Included:
-1. **Power BI Dashboards**  
+0. **Power BI Dashboards**  
    Interactive dashboards visualizing sales trends, KPIs, and other business insights.
    
-2. **Retention Cohort and Churn Analyses**  
+1. **Retention Cohort and Churn Analyses**  
    Weekly retention analysis and churn rate calculations using BigQuery and visualization tools.
    
-3. **Funnel Analyses**  
+2. **Funnel Analyses**  
    Conversion funnel analysis with event breakdowns, focusing on user behavior insights.
    
-4. **Customer Segmentation (RFM) and CLV Analysis**  
+3. **Customer Segmentation (RFM) and CLV Analysis**  
    Customer lifetime value (CLV) calculations and RFM-based segmentation using BigQuery.
 
-5. **A/B Testing**  
+4. **A/B Testing**  
    Statistical testing for measuring the impact of experimental changes on key metrics.
 
-6. **Python Projects**  
-   - **Data Analysis with Pandas:** Cleaning, transforming, and analyzing datasets.  
-   - **Data Visualization:** Creating compelling visualizations.  
-   - **Regression Analysis:** Building predictive models to uncover key relationships in data.
+5. **Python for Data Analytics**
+   Chess - Python program implementation to answer a question – given a board state that the user enters, with 1 white figure and up to 16 black figures, which black figures can the white figure take?
+   
+7. **Data Processing with Pandas**  
+   - Data Analysis with Pandas: Cleaning, transforming, and analyzing datasets - analyzing the Top 50 Spotify Tracks 2020 dataset.  
+   - Data Visualization: Creating compelling visualizations.  
+
 
 ## Tools and Technologies:
-- **Languages:** Python (Pandas, NumPy)  
+- **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  
 - **Visualization:** Power BI, Google Sheets  
 - **Database:** BigQuery  
-- **Methodologies:** RFM segmentation, cohort analysis, A/B testing, regression analysis
+- **Methodologies:** RFM segmentation, Cohort analysis, A/B testing, regression analysis
 
 ## About Me:
 I am a data analyst in progress with a passion for uncovering actionable insights and creating impactful visualizations. This portfolio highlights my ability to tackle real-world business challenges through data.

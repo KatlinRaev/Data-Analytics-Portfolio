@@ -21,10 +21,13 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on ex
 5. **Python for Data Analytics**
    Chess - Python program implementation to answer a question – given a board state that the user enters, with 1 white figure and up to 16 black figures, which black figures can the white figure take?
    
-7. **Data Processing with Pandas**  
+6. **Data Processing with Pandas**  
    - Data Analysis with Pandas: Cleaning, transforming, and analyzing datasets - analyzing the Top 50 Spotify Tracks 2020 dataset.  
    - Data Visualization: Creating compelling visualizations.  
-
+   
+7. **Data Visualization with Pandas**  
+   - Data Analysis with Pandas: Cleaning, transforming, and analyzing datasets - Coursera Courses.  
+   - Data Visualization: Creating compelling visualizations. 
 
 ## Tools and Technologies:
 - **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  

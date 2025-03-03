@@ -35,7 +35,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on ex
    - Predictive modeling
 
 ## Tools and Technologies:
-- **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  
+- **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  , SQL
 - **Visualization:** Power BI, Google Sheets  
 - **Database:** BigQuery  
 - **Methodologies:** RFM segmentation, Cohort analysis, A/B testing, regression analysis

@@ -27,7 +27,12 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on ex
    
 7. **Data Visualization with Pandas**  
    - Data Analysis with Pandas: Cleaning, transforming, and analyzing datasets - Coursera Courses.  
-   - Data Visualization: Creating compelling visualizations. 
+   - Data Visualization: Creating compelling visualizations.
+
+8. **Machine Learning: Regression**  
+   - Data Analysis with Pandas: Cleaning, transforming, and analyzing datasets - Cardiovascular Disease Prediction.  
+   - Data Visualization: Creating compelling visualizations.
+   - Predictive modeling
 
 ## Tools and Technologies:
 - **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  

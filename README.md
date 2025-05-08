@@ -38,7 +38,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my hands-on ex
 8.  **Specialization - Product analysis**  
       - User Purchase Duration - daily dynamics of first transaction
       - Sql querys - filtering and aggregating data
-      - Interactive dashboards visualizing trends
+      - Interactive dashboards visualizing trends - Power BI
 
 ## Tools and Technologies:
    - **Languages:** Python, Jypiter Notebook (Pandas, NumPy, Seaborn, Matplotlib)  , SQL
